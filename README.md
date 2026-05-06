@@ -9,6 +9,7 @@ Hit me up if you would like to discuss any project ideas or collaborate!
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/suryawanshiaditya/
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aditya2907)
 
 ### My Technology Toolbox
 
