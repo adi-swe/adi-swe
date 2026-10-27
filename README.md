@@ -1,23 +1,51 @@
+![Aditya Suryawanshi — Backend engineer. Building the systems behind the screen.](assets/header.svg)
+
 # Hey, I'm Aditya 👋
 
-Backend developer who spends most of his time breaking apart monoliths into microservices and stuffing things into Docker containers. I write a lot of Node.js, Rails and Python at work, but C++ will always be my first love.
+I build backend services, break monoliths into microservices, and put things in Docker containers. Most days, I work with **Node.js, Ruby on Rails, and Python**. C++ will always be my first love.
 
-I've done my fair share of fullstack work too — I can survive in frontend land, I just prefer not to live there. What I actually enjoy is debugging backend stuff. Give me a weird production bug and a log file and I'm happy.
+I've worked across the stack, but backend engineering is where I feel at home. Give me a weird production bug and a log file, and I'm happy.
 
-Got a project idea or want to collaborate? Reach out — [LinkedIn](https://www.linkedin.com/in/suryawanshiaditya/)
+[LinkedIn ↗](https://www.linkedin.com/in/suryawanshiaditya/) · [Email ↗](mailto:adityams.dev@gmail.com) · [Project repositories ↗](https://github.com/aditya2907?tab=repositories)
 
-## Stuff I work with
+---
 
-`C++` `Python` `JavaScript` `Java` `Ruby`
+## What I work on
 
-`Node.js` `Ruby on Rails` `Docker`
+| Backend engineering | Systems & data |
+| :--- | :--- |
+| APIs, services, and monolith-to-microservice migrations | Containerized applications and reliable data workflows |
+| Node.js · Ruby on Rails · Python | Docker · PostgreSQL · MySQL · MongoDB · Redis |
 
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+### In the toolkit
 
-`HTML` `CSS` (when I have to)
+**Languages** &nbsp; `C++` `Python` `JavaScript` `Java` `Ruby`
 
-## Stats
+**Backend** &nbsp; `Node.js` `Ruby on Rails` `Docker`
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya2907&show_icons=true&hide_border=true)
+**Databases** &nbsp; `PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-![Profile views](https://komarev.com/ghpvc/?username=aditya2907)
+**Frontend, when needed** &nbsp; `HTML` `CSS`
+
+## Selected projects
+
+### [TensorFleet ↗](https://github.com/aditya2907/TensorFleet)
+A distributed ML training platform with an API gateway, orchestration services, and compute workers. Built around scalable execution, fault tolerance, and observability.
+
+`Python` `Go` `FastAPI` `TensorFlow` `Docker` `Kubernetes`
+
+### [Explainable fraud detection ↗](https://github.com/aditya2907/Financial-Fraud-Detection-using-Explainable-AI)
+Fraud analytics with ensemble models and explanations that help make model decisions understandable. Includes scoring pipelines and an interactive dashboard.
+
+`Python` `XGBoost` `LightGBM` `SHAP` `LIME` `Streamlit`
+
+### [P2P lending platform ↗](https://github.com/aditya2907/P2P-Lending-System)
+Full-stack lending workflows covering origination, funding, repayment, and settlement, with smart contracts and role-based access.
+
+`Python` `Solidity` `SQL` `React`
+
+---
+
+## Let's build something useful
+
+Have a project idea, a backend challenge, or an opportunity to collaborate? [Let's talk on LinkedIn.](https://www.linkedin.com/in/suryawanshiaditya/)

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Suryawanshi — Backend Engineer</title>
+  <desc id="desc">An ivory and orange banner with a diagram connecting an API, services, and data.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d2d5ca"/></pattern></defs>
+  <rect width="1200" height="360" fill="#f5f4ef"/>
+  <rect x="755" width="445" height="360" fill="url(#grid)"/>
+  <rect x="50" y="55" width="10" height="10" fill="#bd431f"/>
+  <text x="74" y="65" fill="#943719" font-family="monospace" font-size="13" letter-spacing="2">BACKEND / SYSTEMS / DATA</text>
+  <g fill="#20231f" font-family="Arial, Helvetica, sans-serif">
+    <text x="50" y="147" font-size="58" font-weight="700" letter-spacing="-2">Aditya Suryawanshi.</text>
+    <text x="52" y="202" font-size="28">Building the systems behind the screen.</text>
+    <text x="52" y="275" font-family="monospace" font-size="14" fill="#62675e">MICROSERVICES · CONTAINERS · A GOOD LOG FILE</text>
+  </g>
+  <g fill="none" stroke="#7d8773" stroke-width="2"><path d="M975 110V150H865V180M975 150H1085V180M865 220V255H1085V220M975 255V280"/></g>
+  <g fill="#f5f4ef" stroke="#a1a995"><rect x="915" y="70" width="120" height="40"/><rect x="810" y="180" width="110" height="40"/><rect x="1030" y="180" width="110" height="40"/><rect x="915" y="280" width="120" height="40"/></g>
+  <g text-anchor="middle" font-family="monospace" font-size="12" fill="#404b39"><text x="975" y="95">API</text><text x="865" y="205">SERVICE 01</text><text x="1085" y="205">SERVICE 02</text><text x="975" y="305">DATA</text></g>
+  <g fill="#bd431f"><circle cx="975" cy="150" r="5"/><circle cx="975" cy="255" r="5"/></g>
+  <path d="M50 334H1150" stroke="#d9dcd1"/>
+</svg>
